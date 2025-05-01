@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kumargauravone](https://github.com/kumargauravone)
 
-- 📝 I regularly write articles on [Selenium and Java](Selenium and Java)
+- 📝 I regularly write articles on Selenium and Java
 
 - 💬 Ask me about **Selenium , Java, RestAssured and Manual Testing**
 
